@@ -1,0 +1,13 @@
+Symbols,GM,F,TM,FCAU,HMC
+GM,1.000,0.737,0.528,0.622,0.608
+F,0.737,1.000,0.509,0.568,0.585
+TM,0.528,0.509,1.000,0.507,0.745
+FCAU,0.622,0.568,0.507,1.000,0.531
+HMC,0.608,0.585,0.745,0.531,1.000
+,,,,,
+,,,,,
+GM,General Motors Company,,,,
+F,Ford Motor Company,,,,
+TM ,Toyota Motor Corporation,,,,
+FCAU,Fiat Chrysler Automobiles N.V. ,,,,
+HMC,"Honda Motor Co., Ltd. ",,,,

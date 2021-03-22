@@ -1,0 +1,4 @@
+Model,Score,MSE
+Linear Regression,0.92,1.69
+Degree2 Polynomial Ridge,0.91,2.00
+Degree2 Polynomial Linear Regression,0.93,1.58

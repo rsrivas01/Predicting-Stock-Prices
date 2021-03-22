@@ -1,1 +1,1 @@
-# Predicting-Stock-Prices
+# Stock-Ho-And-Rivas
